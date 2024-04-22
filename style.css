@@ -1,0 +1,216 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-left: 30px; */
+    background-color: black;
+    color: white;
+    /* width: 800px; */
+    width: 100%;
+    padding: 0 30px;
+}
+a{
+    text-decoration: none;
+    gap: 10px;
+    margin-right: 70px;
+    color: white;
+}
+.hero{
+    line-height: 10px;
+    /* margin-left: 30PX; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 0, 150px;
+    width: 100%;
+    padding: 10px 30px;
+}
+.meta{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.parent{
+    display: flex;
+    gap: 10px;
+}
+.firstchild{
+    color: white;
+}
+.class{
+    display: flex;
+}
+img{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    margin-right: 40px;
+    /* object-fit: cover; */
+}
+section{
+    background-color: black;
+    padding-bottom: 20px;
+}
+.tech{
+    /* padding: px; */
+    border: red;
+    /* height: 300px; */
+    /* margin-bottom: 30px; */
+    text-align: center;
+    margin: auto;
+    /* margin-left: 30px; */
+     background-color: black;
+     color: white;
+     width: 780px;
+     /* border: 1px solid white; */
+}
+
+.all{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid white; */
+    width: 780px;
+    margin: auto;
+}
+.imageBox{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    /* width: 35vh; */
+    color: white;
+line-height: 5px;
+margin-top: 40px;
+}
+.web{
+    background-color: black;
+    color: white;
+    height: 250px;
+    padding-bottom: 80px;
+    margin-left: 30px;
+    align-items: center;
+    line-height: 5px;
+}
+.open{
+    align-items: center;
+    align-content: space-between;
+    line-height: 5px;
+    margin-left: 410px;
+    padding-top: 50px;
+    
+}
+.sweet{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    gap: 50px;
+    margin-left: 30px;
+}
+.step{
+    background-color: grey;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left: 80px;
+    height: 18vh;
+    width: 23vh;
+    line-height: 13px;
+}
+.step>img{
+    margin-bottom: 4px;
+    margin-left: 5px;
+}
+.pet{
+    background-color: grey;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left: 80px;
+    height: 18vh;
+    width: 23vh;
+    line-height: 13px;
+}
+.pet>img{
+    height: 15px;
+    width: 30px;
+    margin-bottom: 4px;
+    margin-left: 5px;
+}
+.strong{
+    margin-left: 100px;
+    line-height: 15px;
+    background-color: grey;
+    height: 18vh;
+    width: 23vh;
+    padding-top: 15px;
+    margin-top: 15px;
+}
+
+.strong>img{
+    height: 15px;
+    width: 20px;
+}
+.link{
+    background-color: black;
+    height: 400px;
+    padding: 40px;
+    align-items: center;
+    padding-bottom: 500px;
+}
+
+.skills{
+    justify-content: center;
+    color: white;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 100px;
+    padding-bottom: 40px;
+}
+.met{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px;
+    background-color: grey;
+    height: 15vh;
+    color: white;
+    width: 80%;
+    margin-left: 90px;
+    align-items: center;
+}
+.sink{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    background-color: grey;
+  color: green;
+}
+.zip{
+    padding-left: 10px;
+    box-sizing: border-box;
+    
+    height: 40px;
+    padding: 20px;
+    color: rgb(144, 144, 151);
+    border-radius: 5px;
+}
+.area{
+    
+    height: 30px;
+}
+button{
+    margin-top: 70px;
+    background-color: green;
+}
+.sit{
+    margin-top: 15px;
+}
